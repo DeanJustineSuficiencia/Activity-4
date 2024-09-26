@@ -1,0 +1,14 @@
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\bin\Debug\net8.0\LeapYearApp.exe
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\bin\Debug\net8.0\LeapYearApp.deps.json
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\bin\Debug\net8.0\LeapYearApp.runtimeconfig.json
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\bin\Debug\net8.0\LeapYearApp.dll
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\bin\Debug\net8.0\LeapYearApp.pdb
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\obj\Debug\net8.0\LeapYearApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\obj\Debug\net8.0\LeapYearApp.AssemblyInfoInputs.cache
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\obj\Debug\net8.0\LeapYearApp.AssemblyInfo.cs
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\obj\Debug\net8.0\LeapYearApp.csproj.CoreCompileInputs.cache
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\obj\Debug\net8.0\LeapYearApp.dll
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\obj\Debug\net8.0\refint\LeapYearApp.dll
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\obj\Debug\net8.0\LeapYearApp.pdb
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\obj\Debug\net8.0\LeapYearApp.genruntimeconfig.cache
+C:\Users\kylegian\OneDrive\Documents\Activity 4 dean\LeapYearApp\obj\Debug\net8.0\ref\LeapYearApp.dll
